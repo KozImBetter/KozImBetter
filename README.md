@@ -1,14 +1,26 @@
-<h1>Hi 👋, I'm Koz</h1>
-<h3>A web developper fan of algorithms</h3>
+<h1 align="center">Hi 👋, I'm Koz</h1>
+<h3 align="center">Web developer & algorithms enthusiast</h3>
 
-<h3 align="left">You can contact me on:</h3>
+---
+
+## 🔹 About me
+- 🎓 Student in BUT Informatique  
+- 💻 Passionate about web development, backend architectures and algorithms  
+- 🚀 Currently improving my skills in **.NET**, **React**, and **Docker**  
+- 🔍 Looking for opportunities to work on challenging full-stack projects  
+
+---
+
+## 📫 Contact
 <p align="center">
-  <a href="https://www.linkedin.com/in/karim-rysman-154b092b1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karim rysman" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/karim-rysman-154b092b1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🔧 Languages & Tools
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -66,3 +78,22 @@
   </a>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Koz&show_icons=true&theme=dark" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koz&layout=compact&theme=dark" alt="langs" />
+</p>
+
+---
+
+## 📚 Currently learning
+- React & component architecture  
+- Algorithmics for problem solving  
+
+---
